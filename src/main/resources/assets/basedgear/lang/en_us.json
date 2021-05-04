@@ -1,0 +1,11 @@
+{
+
+  "item.basedgear.template_pickaxe": "Template Pickaxe",
+  "item.basedgear.template_shovel": "Template Shovel",
+  "item.basedgear.template_sword": "Template Sword",
+  "item.basedgear.template_axe": "Template Axe",
+  "item.basedgear.template_hoe": "Template Hoe",
+
+  "itemGroup.basedgear.based_gear": "Template Hoe"
+
+}
