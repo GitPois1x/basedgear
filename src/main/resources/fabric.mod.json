@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "basedgear",
+  "version": "${version}",
+
+  "name": "Based Gear",
+  "description": "",
+  "authors": [
+    "LordDeatHunter",
+    "Pois1x"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": "https://github.com/GitPois1x/basedgear"
+  },
+
+  "license": "MIT",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "wraith.basedgear.BasedGear"
+    ]
+  },
+  "mixins": [
+    "basedgear.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  }
+}
